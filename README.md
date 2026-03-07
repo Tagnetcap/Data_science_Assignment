@@ -145,15 +145,6 @@ Open the notebook using:
 
 ---
 
-# Key Insights
-
-The analysis provides insights such as:
-
-* Venues hosting the highest number of T20 matches
-* Most frequent team rivalries
-* Teams with the highest historical win percentages
-* Match scorecards highlighting top batting and bowling performances
-
 # Author
 
 Abhinav
